@@ -1,77 +1,104 @@
-# Arman Gholinezhad (V1p3er)
+# Arman Gholinezhad (V1p3er)  
+Security‑Minded Software Engineer • Backend Architect • Builder of Systems
 
-**Co-Founder & Lead Engineer — Particel Agency**  
-Software Engineer | Backend & Web Systems
-
-Building scalable, production-grade web platforms and backend systems with a strong focus on performance, reliability, and maintainability.
-
----
-
-## Professional Summary
-
-I am the Co-Founder and Lead Engineer at **Particel Agency**, where I lead technical strategy, system architecture, and end-to-end implementation of client-facing digital products.
-
-My work focuses on designing and delivering robust backend systems, scalable web applications, and clean, maintainable codebases suitable for real-world production environments.
+**Creator of Particel Agency**  
+**Creator of Cryptora — a clean‑architected, security‑first password management engine**
 
 ---
 
-## Current Focus
+## 🧩 About Me
 
-- Backend architecture and API development  
-- Database design and performance optimization  
-- Containerized deployments and infrastructure with Docker  
-- Secure, scalable web application development  
+I’m a backend engineer and system architect focused on **building reliable, scalable, and security-driven software systems**.  
+My work centers around crafting clean architectures, designing data‑intensive backend platforms, and building foundations that are maintainable for years — not weeks.
+
+I care deeply about:
+- clarity in architecture  
+- correctness in software  
+- security in design  
+- and building tools that developers enjoy extending
+
+I engineer systems from first principles, with an emphasis on **performance, modularity, maintainability, and cryptographic safety**.
 
 ---
 
-## Technical Stack
+## 🚀 What I Do
 
-### Languages & Frameworks
-- Python (Django, Flask)  
-- JavaScript  
-- HTML5, CSS3, Bootstrap  
+• Architect backend platforms and secure infrastructures  
+• Build production-grade APIs and high-performance services  
+• Design clean domain models with maintainable abstractions  
+• Implement robust data flows with PostgreSQL  
+• Containerize and deploy systems with Docker  
+• Shape engineering direction at **Particel Agency**
 
-### Databases
-- PostgreSQL  
+---
+
+## 🔐 Current Projects
+
+### **Cryptora**
+A clean‑architected, domain-driven password manager engine focused on:  
+- pure domain models  
+- Argon2id hashing  
+- Fernet/AES-based encryption  
+- pluggable storage backends  
+- test-driven design  
+This is my flagship engineering project for 2026.
+
+### **Particel Agency**
+Co-Founder and Technical Lead.  
+Building scalable web platforms and backend infrastructures for businesses seeking production-grade software.
+
+---
+
+## 🛠️ Technical Stack
+
+### Languages  
+- Python (Django, FastAPI, Flask)  
+- JavaScript (Node basics)  
+
+### Databases  
+- PostgreSQL (primary specialization)  
 - MySQL  
 - MongoDB  
 - SQLite  
 
-### Infrastructure & Tools
-- Docker  
-- Linux  
-- Git  
+### System & Infrastructure  
+- Docker & Compose  
+- Linux (server administration, security hardening)  
+- Git (GPG-signed development workflow)  
 
 ---
 
-## Leadership & Responsibilities
+## 🧭 Engineering Principles
 
-- Technical leadership and engineering decision-making  
-- System architecture and backend design  
-- Deployment workflows and infrastructure planning  
-- Code quality, scalability, and security standards  
+I design and build software around:
 
----
+• Clean Architecture  
+• Domain-Driven Design (DDD) patterns  
+• Immutable, validated Value Objects  
+• Security-first development  
+• Test-driven thinking  
+• Minimalistic, predictable abstractions  
 
-## Collaboration
-
-I am open to collaboration on:
-- Production-level web applications  
-- Backend systems and APIs  
-- Agency partnerships and technical consulting  
+These principles guide everything I build — from client platforms at Particel to open-source tooling like Cryptora.
 
 ---
 
-## Contact & Links
+## 🤝 Collaboration & Work
 
-- Website: https://www.particelagency.com  
-- Email: **contact@particelagency.com**  
-- X (Twitter): https://x.com/Particel_agency  
-- Instagram: https://www.instagram.com/Particel_agency/  
-- Facebook: https://www.facebook.com/particel.agency/  
+Open to collaboration on:
+
+- backend architectures & APIs  
+- security-oriented systems  
+- scalable applications  
+- technical partnerships  
+- consulting for clean codebases & infrastructure  
 
 ---
 
-## GitHub Activity
+## 🌐 Contact & Links
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=V1p3er&show_icons=true&hide_border=true&v=3)
+Website: https://www.particelagency.com  
+Email: contact@particelagency.com  
+X (Twitter): https://x.com/Particel_agency  
+Instagram: https://www.instagram.com/Particel_agency/  
+Facebook: https://www.facebook.com/particel.agency/  
