@@ -1,97 +1,98 @@
 # Arman Gholinezhad (V1p3er)  
-Security‑Minded Software Engineer • Backend Architect • Builder of Systems
+Backend Developer | Founder at Particel Agency | Co-founder at Anbargar  
 
-**Creator of Particel Agency**  
-**Creator of Cryptora — a clean‑architected, security‑first password management engine**
+Building backend systems, exploring security, and obsessing over how things work.
 
 ---
 
 ## 🧩 About Me
 
-I’m a backend engineer and system architect focused on **building reliable, scalable, and security-driven software systems**.  
-My work centers around crafting clean architectures, designing data‑intensive backend platforms, and building foundations that are maintainable for years — not weeks.
+I’m a backend engineer with a strong focus on **reliable, maintainable, and security-aware systems**.  
+I enjoy designing backend architectures, modeling domains clearly, and building systems that can evolve over time — not just “work for now”.
 
-I care deeply about:
+I care about:
 - clarity in architecture  
-- correctness in software  
+- correctness in behavior  
 - security in design  
-- and building tools that developers enjoy extending
+- and building tools that other developers actually like to work with
 
-I engineer systems from first principles, with an emphasis on **performance, modularity, maintainability, and cryptographic safety**.
+I tend to think from first principles and design with **modularity, performance, maintainability, and cryptographic safety** in mind.
 
 ---
 
 ## 🚀 What I Do
 
-• Architect backend platforms and secure infrastructures  
-• Build production-grade APIs and high-performance services  
-• Design clean domain models with maintainable abstractions  
-• Implement robust data flows with PostgreSQL  
-• Containerize and deploy systems with Docker  
-• Shape engineering direction at **Particel Agency**
+- Design and implement backend services and APIs  
+- Build production-ready backend components with Python  
+- Model business domains with clean, maintainable abstractions  
+- Work with relational databases (primarily PostgreSQL)  
+- Containerize and deploy services using Docker  
+- Lead technical direction at **Particel Agency** on client projects
 
 ---
 
 ## 🔐 Current Projects
 
 ### **Cryptora**
-A clean‑architected, domain-driven password manager engine focused on:  
+A cleanly-architected, domain-driven password manager engine focused on:
+
 - pure domain models  
-- Argon2id hashing  
+- Argon2id-based password hashing  
 - Fernet/AES-based encryption  
 - pluggable storage backends  
-- test-driven design  
-This is my flagship engineering project for 2026.
+- test-focused design for core logic  
+
+This is my main engineering focus for 2026.
 
 ### **Particel Agency**
-Co-Founder and Technical Lead.  
-Building scalable web platforms and backend infrastructures for businesses seeking production-grade software.
+Co-founder and technical lead.  
+We design and build backend-heavy web platforms and infrastructures for clients who need production-grade software, not just prototypes.
 
 ---
 
 ## 🛠️ Technical Stack
 
-### Languages  
+### Languages & Frameworks
 - Python (Django, FastAPI, Flask)  
-- JavaScript (Node basics)  
+- JavaScript (Node.js basics)  
 
-### Databases  
-- PostgreSQL (primary specialization)  
+### Databases
+- PostgreSQL (primary focus)  
 - MySQL  
 - MongoDB  
 - SQLite  
 
-### System & Infrastructure  
-- Docker & Compose  
-- Linux (server administration, security hardening)  
-- Git (GPG-signed development workflow)  
+### Systems & Infrastructure
+- Docker & Docker Compose  
+- Linux (server setup, basic security hardening)  
+- Git (feature-branch workflow, GPG-signed commits)
 
 ---
 
 ## 🧭 Engineering Principles
 
-I design and build software around:
+I try to build software around:
 
-• Clean Architecture  
-• Domain-Driven Design (DDD) patterns  
-• Immutable, validated Value Objects  
-• Security-first development  
-• Test-driven thinking  
-• Minimalistic, predictable abstractions  
+- Clean, layered architecture  
+- Domain-Driven Design (DDD) concepts  
+- Explicit, validated Value Objects  
+- Security-conscious development  
+- Test-first / test-focused thinking  
+- Simple, predictable abstractions over “clever” ones  
 
-These principles guide everything I build — from client platforms at Particel to open-source tooling like Cryptora.
+These principles guide both client work at Particel and personal projects like Cryptora.
 
 ---
 
 ## 🤝 Collaboration & Work
 
-Open to collaboration on:
+I’m open to collaborating on:
 
-- backend architectures & APIs  
-- security-oriented systems  
-- scalable applications  
-- technical partnerships  
-- consulting for clean codebases & infrastructure  
+- backend architectures and APIs  
+- security-oriented backend systems  
+- scalable web applications  
+- technical partnerships around backend & infrastructure  
+- improving existing Python/Django backends and deployments  
 
 ---
 
@@ -101,8 +102,4 @@ Website: https://www.particelagency.com
 Email: contact@particelagency.com  
 X (Twitter): https://x.com/Particel_agency  
 Instagram: https://www.instagram.com/Particel_agency/  
-Facebook: https://www.facebook.com/particel.agency/  
-
-
-
-<meta name="google-site-verification" content="MJvAFR2t_GowhyFgS9F3WUVQApmVUGYkgIObt-8m0AA" />
+Facebook: https://www.facebook.com/particel.agency/
