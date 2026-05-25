@@ -104,5 +104,5 @@ Instagram: https://www.instagram.com/Particel_agency/
 Facebook: https://www.facebook.com/particel.agency/  
 
 
-GOOGLE INDEXING
+
 <meta name="google-site-verification" content="MJvAFR2t_GowhyFgS9F3WUVQApmVUGYkgIObt-8m0AA" />
