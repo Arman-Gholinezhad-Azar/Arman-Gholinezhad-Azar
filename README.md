@@ -33,6 +33,15 @@ I tend to think from first principles and design with **modularity, performance,
 
 ## 🔐 Current Projects
 
+### **anbargar-warehouse.ir**
+A cleanly-architected, django web application managing warehouse focused on:
+
+- pure modeling 
+- ai integration for analysising supply and demand  
+- money management for business  
+- pluggable storage backends and api 
+- test-focused design for core logic  
+
 ### **Cryptora**
 A cleanly-architected, domain-driven password manager engine focused on:
 
@@ -41,8 +50,6 @@ A cleanly-architected, domain-driven password manager engine focused on:
 - Fernet/AES-based encryption  
 - pluggable storage backends  
 - test-focused design for core logic  
-
-This is my main engineering focus for 2026.
 
 ### **Particel Agency**
 Co-founder and technical lead.  
